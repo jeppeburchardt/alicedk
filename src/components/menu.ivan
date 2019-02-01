@@ -1,0 +1,76 @@
+import Logo
+
+style BackgroundImage: div
+    background-color: #000;
+    background-image: url("/bg.png")
+    background-size: cover;
+    background-position: center 64%;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 8px;
+    @media only screen and (max-width : 400px)
+        background-position: center 64%;
+        flex-direction: column;
+        align-items: flex-start;
+
+style BackgroundImageFull: div
+    background-position: center;    
+    BackgroundImage
+    align-items: flex-start;
+    height: 100vh;
+    @media only screen and (max-width : 400px)
+        background-position: 80% center;
+        flex-direction: column;
+        align-items: flex-start;
+
+style MenuList: div
+    display: flex
+    flex-direction: row;
+    flex: 1 2 auto;
+    flex-wrap: wrap-reverse;
+    justify-content: flex-end;
+    @media only screen and (max-width : 400px)
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+
+style MenuItem: a
+    font-family: 'Stardos Stencil', cursive;
+    text-decoration: none;
+    text-transform: uppercase;
+    background: #fff;
+    color: #000;
+    margin: 8px;
+    padding: 8px 16px;
+    transition: background-color 100ms linear;
+    &:nth-of-type(1)
+        background-color: #F0CA5C;
+    &:nth-of-type(2)
+        background-color: #F04BA9;
+    &:nth-of-type(3)
+        background-color: #19ABC0;
+    &:nth-of-type(4)
+        background-color: #9CB1B5;
+    &:hover 
+        background-color: #fff;
+
+export layout Menu: nav role="navigation"
+    BackgroundImage
+        Logo
+        MenuList
+            MenuItem href="/forestillinger": Forestillinger
+            MenuItem href="/rekvisitter": Rekvisitter
+            MenuItem href="/kontakt": kontakt
+            MenuItem href="/cv": cv
+
+export layout MenuFull: nav role="navigation"
+    BackgroundImageFull
+        Logo
+        MenuList
+            MenuItem href="/forestillinger": Forestillinger
+            MenuItem href="/rekvisitter": Rekvisitter
+            MenuItem href="/kontakt": kontakt
+            MenuItem href="/cv": cv

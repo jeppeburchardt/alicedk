@@ -1,0 +1,16 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+import KontaktContent
+import Gallery
+import GalleryItem
+
+page
+    Head
+    Body
+        Menu
+        Content
+            KontaktContent
+        Footer

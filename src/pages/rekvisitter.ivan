@@ -1,0 +1,23 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+import RekvisitterContent
+import Gallery
+import GalleryItem
+
+page
+    Head
+    Body
+        Menu
+        Content
+            RekvisitterContent
+            Gallery id="rekvisitter"
+                GalleryItem href="/rekvisitter/1"
+                    img src="http://placekitten.com/400/320"
+                    div: Maske 1
+                GalleryItem href="/rekvisitter/2"
+                    img src="http://placekitten.com/400/320"
+                    div: Maske 2
+        Footer

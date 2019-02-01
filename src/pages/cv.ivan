@@ -1,0 +1,14 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+import CVContent
+
+page
+    Head
+    Body
+        Menu
+        Content
+            CVContent
+        Footer

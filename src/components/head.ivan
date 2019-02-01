@@ -1,0 +1,8 @@
+inject GlobalStyle: style
+    @import url('https://fonts.googleapis.com/css?family=Stardos+Stencil');
+    html *
+        box-sizing: border-box;
+
+export layout Head: head
+    title: Alice.dk
+    GlobalStyle

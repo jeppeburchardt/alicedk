@@ -1,0 +1,8 @@
+style FooterWrapper: footer
+    background-color: #eee
+
+export layout Footer: FooterWrapper
+    div
+        :Copyright 2018 Gustav B
+    div
+        a href="/": https://gustavgb.github.io

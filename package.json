@@ -1,0 +1,15 @@
+{
+  "name": "alice.dk",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "ivan build --src ./src",
+    "dev": "ivan-dev-server --src ./src"
+  },
+  "author": "Jeppe Burchardt",
+  "dependencies": {
+    "@gustavgb/ivan": "0.2.1"
+  },
+  "devDependencies": {
+    "@gustavgb/ivan-dev-server": "0.0.1"
+  }
+}

@@ -1,0 +1,8 @@
+import MenuFull
+import Head
+import Body
+
+page
+    Head
+    Body
+        MenuFull

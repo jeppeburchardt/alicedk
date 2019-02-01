@@ -1,0 +1,22 @@
+style LogoWrapper: div
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    line-height: 1.1;
+    background: #000;
+    margin: 8px;
+    padding: 8px 16px;
+    font-size: 33px;
+    font-family: 'Stardos Stencil', cursive;
+    font-weight: bold;
+    > *:first-child
+        font-size: 72px;
+    @media only screen and (max-width : 400px)
+        font-size: 16px;
+        padding: 4px 8px;
+        > *:first-child
+            font-size: 36px;
+
+export layout Logo: LogoWrapper
+    div: Alice
+    div: Sjurkalina
