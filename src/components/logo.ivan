@@ -8,9 +8,13 @@ style LogoWrapper: div
     padding: 8px 16px;
     font-size: 33px;
     font-family: 'Stardos Stencil', cursive;
-    font-weight: bold;
-    > *:first-child
-        font-size: 72px;
+    font-weight: normal;
+    > a 
+        text-decoration: none;
+        color: #fff;
+        > *:first-child
+            display: block;
+            font-size: 72px;
     @media only screen and (max-width : 400px)
         font-size: 16px;
         padding: 4px 8px;
@@ -18,5 +22,6 @@ style LogoWrapper: div
             font-size: 36px;
 
 export layout Logo: LogoWrapper
-    div: Alice
-    div: Sjurkalina
+    a href="/"   
+        span: Alice
+        span: Sjurkalina

@@ -1,0 +1,23 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+import ForestillingerContent
+import Gallery
+import GalleryItem
+
+page
+    Head
+    Body
+        Menu
+        Content
+            ForestillingerContent
+            Gallery id="forestillinger"
+                GalleryItem href="/forestillinger/1"
+                    img src="http://placekitten.com/400/320"
+                    div: Maske 1
+                GalleryItem href="/forestillinger/2"
+                    img src="http://placekitten.com/400/320"
+                    div: Maske 2
+        Footer
