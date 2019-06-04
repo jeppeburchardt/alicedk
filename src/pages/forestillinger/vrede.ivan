@@ -1,0 +1,20 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+
+page
+    Head
+    Body
+        Menu
+        Content
+            h1: VREDE
+            img src="/forestillinger/vrede/vrede01.jpg"
+            img src="/forestillinger/vrede/vrede02.jpg"
+            img src="/forestillinger/vrede/vrede03.jpg"
+            img src="/forestillinger/vrede/vrede04.jpg"
+            img src="/forestillinger/vrede/vrede05.jpg"
+            img src="/forestillinger/vrede/vrede06.jpg"
+            img src="/forestillinger/vrede/vrede07.jpg"
+        Footer

@@ -1,0 +1,17 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+
+page
+    Head
+    Body
+        Menu
+        Content
+            h1: EN NYT&aring;RSNAT
+            img src="/forestillinger/nytaarsnat/nytaarsnat01.jpg"
+            img src="/forestillinger/nytaarsnat/nytaarsnat02.jpg"
+            img src="/forestillinger/nytaarsnat/nytaarsnat03.jpg"
+            img src="/forestillinger/nytaarsnat/nytaarsnat04.jpg"
+        Footer

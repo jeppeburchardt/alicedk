@@ -1,0 +1,17 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+
+page
+    Head
+    Body
+        Menu
+        Content
+            h1: DANTES GUDDOMMELIGE KOMEDIE
+            img src="/forestillinger/dantes/dantes01.jpg"
+            img src="/forestillinger/dantes/dantes02.jpg"
+            img src="/forestillinger/dantes/dantes03.jpg"
+            img src="/forestillinger/dantes/dantes04.jpg"
+        Footer

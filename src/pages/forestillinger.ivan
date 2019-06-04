@@ -14,10 +14,16 @@ page
         Content
             ForestillingerContent
             Gallery id="forestillinger"
-                GalleryItem href="/forestillinger/1"
-                    img src="http://placekitten.com/400/320"
-                    div: Maske 1
-                GalleryItem href="/forestillinger/2"
-                    img src="http://placekitten.com/400/320"
-                    div: Maske 2
+                GalleryItem href="/forestillinger/babette"
+                    img src="/forestillinger/babette/babette.jpg"
+                    div: Babettes g&aelig;stebud
+                GalleryItem href="/forestillinger/vrede"
+                    img src="/forestillinger/vrede/vrede.jpg"
+                    div: VREDE
+                GalleryItem href="/forestillinger/nytaarsnat"
+                    img src="/forestillinger/nytaarsnat/nytaarsnat.jpg"
+                    div: EN NYTÅRSNAT
+                GalleryItem href="/forestillinger/livlaegens"
+                    img src="/forestillinger/livlaegens/livlaegens.jpg"
+                    div: Livl&aelig;gens bes&oslash;g
         Footer

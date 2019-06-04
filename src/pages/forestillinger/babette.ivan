@@ -1,0 +1,17 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+
+page
+    Head
+    Body
+        Menu
+        Content
+            h1: Babettes g&aelig;stebud
+            img src="/forestillinger/babette/babette01.jpg"
+            img src="/forestillinger/babette/babette02.jpg"
+            img src="/forestillinger/babette/babette03.jpg"
+            img src="/forestillinger/babette/babette04.jpg"
+        Footer

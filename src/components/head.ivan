@@ -6,3 +6,4 @@ inject GlobalStyle: style
 export layout Head: head
     title: Alice.dk
     GlobalStyle
+    meta name="viewport" content="width=device-width, initial-scale=1.0"

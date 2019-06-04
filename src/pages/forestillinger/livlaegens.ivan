@@ -1,0 +1,15 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+
+page
+    Head
+    Body
+        Menu
+        Content
+            h1: Livl&aelig;gens bes&oslash;g
+            img src="/forestillinger/livlaegens/livlaegens01.jpg"
+            img src="/forestillinger/livlaegens/livlaegens02.jpg"
+        Footer

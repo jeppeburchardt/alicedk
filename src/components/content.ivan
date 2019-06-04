@@ -32,3 +32,6 @@ export style Content: section
             color: #19ABC0;
         &:hover
             color: #4bbfd1;
+
+    img
+        width: 100%;
