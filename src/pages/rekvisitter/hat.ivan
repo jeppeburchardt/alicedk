@@ -1,0 +1,26 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+
+page
+    Head
+    Body
+        Menu
+        Content
+            h1: Hovedbekl&aelig;dning
+            img src="/rekvisitter/hat/hat01.jpg"
+            img src="/rekvisitter/hat/hat02.jpg"
+            img src="/rekvisitter/hat/hat03.jpg"
+            img src="/rekvisitter/hat/hat04.jpg"
+            img src="/rekvisitter/hat/hat05.jpg"
+            img src="/rekvisitter/hat/hat06.jpg"
+            img src="/rekvisitter/hat/hat07.jpg"
+            img src="/rekvisitter/hat/hat08.jpg"
+            img src="/rekvisitter/hat/hat09.jpg"
+            img src="/rekvisitter/hat/hat10.jpg"
+            img src="/rekvisitter/hat/hat11.jpg"
+            img src="/rekvisitter/hat/hat12.jpg"
+            img src="/rekvisitter/hat/hat13.jpg"
+        Footer

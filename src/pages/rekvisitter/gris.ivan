@@ -1,0 +1,18 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+
+page
+    Head
+    Body
+        Menu
+        Content
+            h1: Gris
+            img src="/rekvisitter/gris/gris01.jpg"
+            img src="/rekvisitter/gris/gris02.jpg"
+            img src="/rekvisitter/gris/gris03.jpg"
+            img src="/rekvisitter/gris/gris04.jpg"
+            img src="/rekvisitter/gris/gris05.jpg"
+        Footer

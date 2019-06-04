@@ -10,7 +10,7 @@ style BackgroundImage: div
     flex-direction: row;
     align-items: flex-end;
     padding: 8px;
-    @media only screen and (max-width : 400px)
+    @media only screen and (max-width : 425px)
         background-position: center 64%;
         flex-direction: column;
         align-items: flex-start;
@@ -20,7 +20,7 @@ style BackgroundImageFull: div
     BackgroundImage
     align-items: flex-start;
     height: 100vh;
-    @media only screen and (max-width : 400px)
+    @media only screen and (max-width : 425px)
         background-position: 80% center;
         flex-direction: column;
         align-items: flex-start;
@@ -31,7 +31,7 @@ style MenuList: div
     flex: 1 2 auto;
     flex-wrap: wrap-reverse;
     justify-content: flex-end;
-    @media only screen and (max-width : 400px)
+    @media only screen and (max-width : 425px)
         flex-wrap: wrap;
         flex-direction: column;
         align-items: flex-start;

@@ -4,13 +4,19 @@ import Head
 import Body
 import Content
 import KontaktContent
-import Gallery
-import GalleryItem
+
+style Image: img
+    float: right;
+    margin-bottom: 30px;
+    @media only screen and (min-width : 426px)
+        width: 30% !important;
 
 page
     Head
     Body
         Menu
         Content
+            h1: Kontakt
+            Image src="/alice.jpg"
             KontaktContent
         Footer

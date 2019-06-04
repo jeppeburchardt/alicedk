@@ -2,9 +2,7 @@
 name: KontaktContent
 ---
 
-# Kontakt
-
-**Alice Sjurkalina**\
+## Alice Sjurkalina
 Weidekampsgade 63, 3.3\
 2300 København S
 

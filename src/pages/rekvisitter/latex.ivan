@@ -1,0 +1,20 @@
+import Menu
+import Footer
+import Head
+import Body
+import Content
+
+page
+    Head
+    Body
+        Menu
+        Content
+            h1: Latex Maske
+            img src="/rekvisitter/latex/latex01.jpg"
+            img src="/rekvisitter/latex/latex02.jpg"
+            img src="/rekvisitter/latex/latex03.jpg"
+            img src="/rekvisitter/latex/latex04.jpg"
+            img src="/rekvisitter/latex/latex05.jpg"
+            img src="/rekvisitter/latex/latex06.jpg"
+            img src="/rekvisitter/latex/latex07.jpg"
+        Footer

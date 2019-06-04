@@ -1,8 +1,9 @@
 style FooterWrapper: footer
     background-color: #eee
+    padding: 20px;
+    text-align: center;
+    color: #666;
 
 export layout Footer: FooterWrapper
     div
-        :Copyright 2018 Gustav B
-    div
-        a href="/": https://gustavgb.github.io
+        :Copyright 2019 Alice Sjurkalina

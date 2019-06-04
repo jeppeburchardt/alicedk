@@ -11,6 +11,7 @@ export style Content: section
         font-weight: normal;
         line-height: 1;
         text-transform: uppercase;
+        margin: 1em 0;
 
     h1:first-child
         margin-top: 0;
