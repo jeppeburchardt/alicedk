@@ -8,103 +8,103 @@ name: CVContent
 
 ### DANTES GUDDOMMELIGE KOMEDIE
 *Forestillingsleder*\
-Scene: Østerbro teater\
-Instruktør: Staffan Valdemar Holm
+Scene: &Oslash;sterbro teater\
+Instrukt&oslash;r: Staffan Valdemar Holm
 
-### BABETTES GÆSTEBUD
-*Reggissør og guide koordinator*\
-Scene: Østerbro teater\
-Instruktør: Rolf Heim
+### BABETTES G&AElig;STEBUD
+*Reggiss&oslash;r og guide koordinator*\
+Scene: &Oslash;sterbro teater\
+Instrukt&oslash;r: Rolf Heim
 
 ### VREDE
-*Forestillings- produktionsleder og rekvisitør*\
+*Forestillings- produktionsleder og rekvisit&oslash;r*\
 Scene: Teater Momentum\
-Instruktør: Simon Boberg
+Instrukt&oslash;r: Simon Boberg
 
 ## 2017
 
-### EN NYTÅRSNAT - afgangsforestilling
-*Forestillingsleder og rekvisitør*\
+### EN NYT&Aring;RSNAT - afgangsforestilling
+*Forestillingsleder og rekvisit&oslash;r*\
 Scene: DDSKS\
-Instruktør: Anna Malzer
+Instrukt&oslash;r: Anna Malzer
 
 ### INSOMNIA - musikvideo for AyOwA
-*Koncept, rekvisitør og SFX*\
-Instruktører: Nicolas Tobias Følsgaard & Jonas Lodahl
+*Koncept, rekvisit&oslash;r og SFX*\
+Instrukt&oslash;rer: Nicolas Tobias F&oslash;lsgaard & Jonas Lodahl
 
 
 ## 2016
 
-### LIVLÆGENS BESØG
+### LIVL&AElig;GENS BES&Oslash;G
 *Forestillingsleder i praktik v. Gitte Stokholm*\
 Scene: Betty Nansen\
-Instruktør: Emmet Feigenberg
+Instrukt&oslash;r: Emmet Feigenberg
 
 ### SENSE 8
 *SFX praktikant*\
 Netflix
 
 ### CIRKUS PSYSHOW
-*Forestillingsleder og rekvisitør*
+*Forestillingsleder og rekvisit&oslash;r*
 Scene: Amfiteatret\
-Instruktør: Thomas Bæhring
+Instrukt&oslash;r: Thomas B&aelig;hring
 
-### PUPPEN ÅBNER SIG FØRST TIL SIDST
-*Forestillingsleder og rekvisitør*\
+### PUPPEN &Aring;BNER SIG F&Oslash;RST TIL SIDST
+*Forestillingsleder og rekvisit&oslash;r*\
 Scene: DDSKS\
-Instruktør: Johan Sarauw
+Instrukt&oslash;r: Johan Sarauw
 
 ## 2015
 
 ### ATTEMPTS ON HER LIFE
-*Forestillingsleder og rekvisitør*\
+*Forestillingsleder og rekvisit&oslash;r*\
 Scene: DDSKS\
-Instruktør: Johan Sarauw
+Instrukt&oslash;r: Johan Sarauw
 
-### MÅGENS
-*Afvikler afløser*\
-Scene: Nørrebroteater\
+### M&Aring;GENS
+*Afvikler afl&oslash;ser*\
+Scene: N&oslash;rrebroteater\
 
 ## 2014
 
 ### CIRKUS SUMMARUM
-*Rekvisitørassistent v. Anna Sophia Noerbel*
+*Rekvisit&oslash;rassistent v. Anna Sophia Noerbel*
 
 ### SPARTA
-*Forestillingsleder og rekvisitør*\
+*Forestillingsleder og rekvisit&oslash;r*\
 Teater V\
 Frederik Neergaard
 
 ## 2013
 
 ### CASPER CHRISTENSEN KOMPLEKSET
-*Instruktørassistent*
+*Instrukt&oslash;rassistent*
 Scene: Teater V\
-Instruktør: Pelle Koppel
+Instrukt&oslash;r: Pelle Koppel
 
 ### HOTEL NELSON
-*Rekvisitørassistent v. Anna Sophia Noerbel*\
+*Rekvisit&oslash;rassistent v. Anna Sophia Noerbel*\
 Scene: Grob teater\
-Instruktør: Madeleine Røn Juul
+Instrukt&oslash;r: Madeleine R&oslash;n Juul
 
 ### CIRKUS SUMMARUM
-*Rekvisitørassistent v. Anna Sophia Noerbel*
+*Rekvisit&oslash;rassistent v. Anna Sophia Noerbel*
 
 ### SKETCH SJOV
 *Produktionsassistent v. Andreas Buhl*\
 Scene: Teater V\
-Instruktør: Pelle Koppel
+Instrukt&oslash;r: Pelle Koppel
 
 ### S/H
-*Regissørassistent v. Anna Sophia Noerbel*\
+*Regiss&oslash;rassistent v. Anna Sophia Noerbel*\
 Scene: Rialto\
-Instruktør: Tue Biering // Flyvende grise
+Instrukt&oslash;r: Tue Biering // Flyvende grise
 
 # Uddannelse
 
 ### DEN DANSKE SCENEKUNSTSKOLE
 2014 - 2018
-Forestillingsledelse og rekvisitør
+Forestillingsledelse og rekvisit&oslash;r
 
 ### TEKNISK SKOLE
 2009 - 2012
@@ -116,6 +116,6 @@ Tandteknikker
 * Engelsk
 * Russisk
 
-## Kørekort
+## K&oslash;rekort
 
-Personbil og kørekort
+Personbil og k&oslash;rekort
